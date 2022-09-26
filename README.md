@@ -13,7 +13,7 @@ I am a student in BUPT majored in Information Security
 - Go  
 - MySQL
 - Redis
-- Data sturcture and Algorithm
+- Data structure and Algorithm
   
 
   
