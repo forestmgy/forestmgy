@@ -7,7 +7,16 @@
 I am a student in BUPT majored in Information Security  
   
 
-<br/>  
+**Recently I'm learning**  
+  
+
+- Go  
+- MySQL
+- Redis
+- Data sturcture and Algorithm
+  
+
+  
 
 
 ## Languages and Tools  
@@ -19,7 +28,7 @@ I am a student in BUPT majored in Information Security
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
 </div>  
 
-<br/>  
+
 
 
 ## Github Stats  
