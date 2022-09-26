@@ -44,17 +44,13 @@ I am a student in BUPT majored in Information Security
 
 <br/>  
 
-  
 
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=forestmgy&&style=flat-square)  
   
 
-<br/>  
 
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
